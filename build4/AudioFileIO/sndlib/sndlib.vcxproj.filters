@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\audio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\clm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\clm2xen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\headers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\io.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\s7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\sndlib2xen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\sound.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\vct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\xen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\_sndlib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\clm-strings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\clm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\clm2xen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\mus-config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\s7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\sndlib-strings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\sndlib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\sndlib2xen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\unix-config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\vct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\xen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{539B728E-0992-378B-A63A-5D74D05E1E85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C96FAD23-0FCC-3814-87A2-2FEACD4482FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

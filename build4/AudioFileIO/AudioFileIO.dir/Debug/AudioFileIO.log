@@ -1,0 +1,19 @@
+﻿  Building Custom Rule C:/ASE/ass1/new/2022-MUSI6106-assignment1_combfilter/2022-MUSI6106-assignment1_combfilter/src/AudioFileIO/CMakeLists.txt
+  AudioFile.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\ostream(534,1): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\ostream(527): message : 在编译 类 模板 成员函数“std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::write(const _Elem *,std::streamsize)”时
+          with
+          [
+              _Elem=char
+          ]
+C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\AudioFileIO\AudioFile.cpp(192): message : 查看对正在编译的函数 模板 实例化“std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::write(const _Elem *,std::streamsize)”的引用
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\istream(711): message : 查看对正在编译的 类 模板 实例化“std::basic_ostream<char,std::char_traits<char>>”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\fstream(1186): message : 查看对正在编译的 类 模板 实例化“std::basic_iostream<char,std::char_traits<char>>”的引用
+C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\AudioFileIO\AudioFile.h(34): message : 查看对正在编译的 类 模板 实例化“std::basic_fstream<char,std::char_traits<char>>”的引用
+  AudioFileIf.cpp
+  正在生成代码...
+  AudioFileIO.vcxproj -> C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\lib\Debug\libAudioFileIO.lib

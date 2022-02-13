@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\build4\CMakeFiles\2dab49706e707ab276595830bc536455\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C221BC23-011F-3D45-B6FD-750B7C61356A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

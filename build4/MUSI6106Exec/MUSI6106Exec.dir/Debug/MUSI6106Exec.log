@@ -1,0 +1,12 @@
+﻿  MUSI6106Exec.cpp
+C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\MUSI6106Exec\MUSI6106Exec.cpp(65,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\MUSI6106Exec\MUSI6106Exec.cpp(104,58): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\MUSI6106Exec\MUSI6106Exec.cpp(106,58): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\MUSI6106Exec\MUSI6106Exec.cpp(160,57): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\ostream(393,1): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\ostream(386): message : 在编译 类 模板 成员函数“std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)”时
+C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\MUSI6106Exec\MUSI6106Exec.cpp(172): message : 查看对正在编译的函数 模板 实例化“std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\istream(711): message : 查看对正在编译的 类 模板 实例化“std::basic_ostream<char,std::char_traits<char>>”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\fstream(1186): message : 查看对正在编译的 类 模板 实例化“std::basic_iostream<char,std::char_traits<char>>”的引用
+C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\MUSI6106Exec\MUSI6106Exec.cpp(50): message : 查看对正在编译的 类 模板 实例化“std::basic_fstream<char,std::char_traits<char>>”的引用
+  MUSI6106Exec.vcxproj -> C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\bin\Debug\MUSI6106Exec.exe

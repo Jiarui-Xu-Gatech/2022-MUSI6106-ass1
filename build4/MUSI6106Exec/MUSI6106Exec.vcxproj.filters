@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\MUSI6106Exec\MUSI6106Exec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\inc\AudioFileIf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\inc\CombFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\inc\CombFilterIf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\inc\Util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\inc\Vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\src\MUSI6106Exec\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{539B728E-0992-378B-A63A-5D74D05E1E85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C96FAD23-0FCC-3814-87A2-2FEACD4482FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

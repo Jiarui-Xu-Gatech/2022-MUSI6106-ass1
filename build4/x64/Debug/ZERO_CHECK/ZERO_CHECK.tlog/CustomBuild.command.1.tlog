@@ -1,0 +1,10 @@
+^C:\ASE\ASS1\NEW\2022-MUSI6106-ASSIGNMENT1_COMBFILTER\2022-MUSI6106-ASSIGNMENT1_COMBFILTER\BUILD4\CMAKEFILES\2DAB49706E707AB276595830BC536455\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/ASE/ass1/new/2022-MUSI6106-assignment1_combfilter/2022-MUSI6106-assignment1_combfilter -BC:/ASE/ass1/new/2022-MUSI6106-assignment1_combfilter/2022-MUSI6106-assignment1_combfilter/build4 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/ASE/ass1/new/2022-MUSI6106-assignment1_combfilter/2022-MUSI6106-assignment1_combfilter/build4/MUSI6106.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

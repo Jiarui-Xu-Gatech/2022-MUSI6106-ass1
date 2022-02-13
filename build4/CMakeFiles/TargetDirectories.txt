@@ -1,0 +1,6 @@
+C:/ASE/ass1/new/2022-MUSI6106-assignment1_combfilter/2022-MUSI6106-assignment1_combfilter/build4/CMakeFiles/ALL_BUILD.dir
+C:/ASE/ass1/new/2022-MUSI6106-assignment1_combfilter/2022-MUSI6106-assignment1_combfilter/build4/CMakeFiles/ZERO_CHECK.dir
+C:/ASE/ass1/new/2022-MUSI6106-assignment1_combfilter/2022-MUSI6106-assignment1_combfilter/build4/MUSI6106Exec/CMakeFiles/MUSI6106Exec.dir
+C:/ASE/ass1/new/2022-MUSI6106-assignment1_combfilter/2022-MUSI6106-assignment1_combfilter/build4/AudioFileIO/CMakeFiles/AudioFileIO.dir
+C:/ASE/ass1/new/2022-MUSI6106-assignment1_combfilter/2022-MUSI6106-assignment1_combfilter/build4/AudioFileIO/sndlib/CMakeFiles/sndlib.dir
+C:/ASE/ass1/new/2022-MUSI6106-assignment1_combfilter/2022-MUSI6106-assignment1_combfilter/build4/CombFilter/CMakeFiles/CombFilter.dir

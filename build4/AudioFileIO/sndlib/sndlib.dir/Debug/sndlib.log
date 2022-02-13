@@ -1,0 +1,16 @@
+﻿  Building Custom Rule C:/ASE/ass1/new/2022-MUSI6106-assignment1_combfilter/2022-MUSI6106-assignment1_combfilter/3rdparty/sndlib/CMakeLists.txt
+  audio.c
+  clm.c
+  clm2xen.c
+  headers.c
+  io.c
+  s7.c
+C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\s7.c(22699,67): warning C4090: “函数”: 不同的“const”限定符
+C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\s7.c(24328,16): warning C4047: “return”:“int”与“s7_pointer”的间接级别不同
+C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\3rdparty\sndlib\s7.c(24329,15): warning C4047: “return”:“int”与“void *”的间接级别不同
+  sndlib2xen.c
+  sound.c
+  vct.c
+  xen.c
+  正在生成代码...
+  sndlib.vcxproj -> C:\ASE\ass1\new\2022-MUSI6106-assignment1_combfilter\2022-MUSI6106-assignment1_combfilter\lib\Debug\libsndlib.lib
