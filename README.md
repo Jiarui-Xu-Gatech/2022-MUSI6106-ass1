@@ -3,8 +3,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/alexanderlerch/2022-MUSI6106)
 ![GitHub](https://img.shields.io/github/license/alexanderlerch/2022-MUSI6106)
 
-# The result is in bin\Debug\data, by running the MUSI6106.sln in build4, you will get the result. bin\Debug\data\la.wav is the real audio
-
 # MUSI6106 2022: Audio Software Engineering
 Template project for assignments and exercises for the class MUSI6106
 
@@ -16,7 +14,6 @@ Template project for assignments and exercises for the class MUSI6106
 |_ inc: global headers
 |_ src: source code
   |_ AudioFileIO: library wrapping sndfile (3rdparty)
-  |_ CombFilter: combfilter library (assignment 1)
   |_ inc: internal headers
   |_ MUSI6106Exec: code for executable binary
 ```
