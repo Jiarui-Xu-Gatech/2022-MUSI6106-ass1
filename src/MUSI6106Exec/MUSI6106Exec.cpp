@@ -490,7 +490,7 @@ bool t3_Is_correct_when_varying_input_block_size() {
 void runDefaultTest()
 {
 	t1_Is_FIR_Zero_when_Input_match_feedforward();
-	//t2_Is_IIR_magnitude_change_when_Input_match_feedforward();
+	t2_Is_IIR_magnitude_change_when_Input_match_feedforward();
 	
 	t4_proces_zero_input();
 	t3_Is_correct_when_varying_input_block_size();
